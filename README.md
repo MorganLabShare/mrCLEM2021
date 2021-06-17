@@ -27,3 +27,8 @@ Finally, the registered stack was written to a multiresolution, mip-mapped image
 
 
 ***FINISH***
+***to add***
+***water monitoring
+***wafermapper
+***toad
+***
