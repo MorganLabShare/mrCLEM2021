@@ -16,7 +16,7 @@ Two-photon and confocal imaging was acquired using software included with the mi
 EM imaging was acquired using the custom software WaferMapper (Hayworth, et al. [2014](https://doi.org/10.3389/fncir.2014.00068))
 
 ## 2. Image preprocessing
-Raw images were first median filtered to reduce image noise. The brightness and contrast were then normalized across serial sections to aid in later processing and analysis
+Raw images were first median filtered to reduce image noise and inverted (imPreProcPNG.py). The brightness and contrast were then normalized across serial sections to aid in later processing and analysis () 
 
 ## 3. Image registration
 Images were imported into Trakem2 (included in ImageJ) and registered using rigid, affine, and then elastic registration (described in methods)
