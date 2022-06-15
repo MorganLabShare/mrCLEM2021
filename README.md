@@ -34,7 +34,4 @@ The 3DEM volume is loaded into VAST and annotated as described in the methods.
 
 ***FINISH***
 ***to add***
-***water monitoring
-***wafermapper
-***toad
-***
+***toad**
